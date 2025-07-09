@@ -1,4 +1,4 @@
-# 🚀 2025 Entwicklungs-Portfolio
+# 🚀 2025 - Summary
 
 <div align="center">
 
