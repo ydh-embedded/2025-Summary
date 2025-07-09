@@ -16,24 +16,20 @@
 ## 📋 Schnellnavigation
 
 <table>
-<tr>
-<td width="70%">
+    <tr>
+        <td width="70%">
 
 **🎯 Hauptkategorien**
 - [💻 .NET & C# Entwicklung](#-net--c-entwicklung)
 - [🌐 Web-Entwicklung](#-web-entwicklung)
 - [🔧 Automatisierung & Tools](#-automatisierung--tools)
-
-</td>
-<td width="70%">
-
 **🚀 Spezialbereiche**
 - [🏭 Infrastruktur & DevOps](#-infrastruktur--devops)
 - [🖨️ 3D-Druck & Hardware](#-3d-druck--hardware)
 - [🏗️ Spezialisierte Anwendungen](#-spezialisierte-anwendungen)
 
-</td>
-</tr>
+        </td>
+    </tr>
 </table>
 
 ---
