@@ -10,37 +10,12 @@
 **Meine Ideen im Rückblick**
 
 </div>
-
 ---
 
-## 📋 Schnellnavigation
-
-<table>
-    <tr>
-
-
-**🎯 Hauptkategorien**
-- [💻 .NET & C# Entwicklung](#-net--c-entwicklung)
-- [🌐 Web-Entwicklung](#-web-entwicklung)
-- [🔧 Automatisierung & Tools](#-automatisierung--tools)
-
-
-**🚀 Spezialbereiche**
-- [🏭 Infrastruktur & DevOps](#-infrastruktur--devops)
-- [🖨️ 3D-Druck & Hardware](#-3d-druck--hardware)
-- [🏗️ Spezialisierte Anwendungen](#-spezialisierte-anwendungen)
-
-
-
-    </tr>
-</table>
-
----
-
-## 💻 .NET & C# Entwicklung
+## 🎯 Hauptkategorien
 
 <details>
-<summary><b>☁️ AKS - Anlagen-Kennschlüssel</b> <code>C#</code></summary>
+<summary><b>☁️ Schnellnavigation</b></summary>
 
 > **Professionelle Analgen-Kennschlüssel mit C# Implementierung**
 
