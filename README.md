@@ -8,7 +8,7 @@
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
 | 📚 AKS        | Anlagenkennschlüssel | [→ Öffnen](https://github.com/ydh-embedded/AKS.git) |
-| 📚 c#         | App-c-Sharp | [→ Öffnen](https://github.com/ydh-embedded/App-S-Sharp.git) |
+| 📚 c#         | App-c-Sharp | [→ Öffnen](https://github.com/ydh-embedded/App-C-Sharp.git) |
 | 📚 Rsynch     | BackUp-mit-Rsynch | [→ Öffnen](https://github.com/ydh-embedded/BackUp-mit-Rsynch.git) |
 | 📚 LLMS       | SEO-Web | [→ Öffnen](https://github.com/ydh-embedded/LLMS-SEO-WebSite.git) |
 | 📚 Live-Server-python | Web-Server run| [→ Öffnen](https://github.com/ydh-embedded/Live-Server-python.git) |
