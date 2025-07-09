@@ -25,7 +25,7 @@
 - [🔧 Automatisierung & Tools](#-automatisierung--tools)
 
 </td>
-<td width="50%">
+<td width="70%">
 
 **🚀 Spezialbereiche**
 - [🏭 Infrastruktur & DevOps](#-infrastruktur--devops)
