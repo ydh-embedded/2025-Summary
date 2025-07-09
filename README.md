@@ -3,12 +3,7 @@
 
 ---
 
-## 🎯 Hauptkategorien
-
-<details>
-<summary><b>☁️ Schnellnavigation</b></summary>
-
-> **Professionelle Analgen-Kennschlüssel mit C# Implementierung**
+## ☁️ **Schnellnavigation**
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
@@ -26,8 +21,6 @@
 | 📚 cSteuer    | Steuer Web-API | [→ Öffnen](https://github.com/ydh-embedded/steuer-calc.git) |
 | 📚 doc        | Schaltschrank Dokumentation | [→ Öffnen](https://github.com/ydh-embedded/webvisu.github.io.git) |
 | 📚 y3d        | y3d-Drucker config | [→ Öffnen](https://github.com/ydh-embedded/y3d-Printer-config-Optimierung.git) |
-
-</details>
 
 <details>
 ---
