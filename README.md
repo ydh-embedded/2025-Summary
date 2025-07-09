@@ -46,10 +46,10 @@
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 📄 **AKS.cs** | C# Implementierung | [→ Öffnen](https://github.com/ydh-embedded//AKS/AKS.cs) |
-| 📚 **Dokumentation** | Technische Dokumentation | [→ Öffnen](https://github.com/ydh-embedded//AKS/AKS.md) |
-| 📊 **Excel Import** | Datenimport-Tools | [→ Öffnen](https://github.com/ydh-embedded//AKS/Excel%20import/) |
-| 📖 **README** | Projektübersicht | [→ Öffnen](https://github.com/ydh-embedded//AKS/README.md) |
+| 📄 **AKS.cs** | C# Implementierung | [→ Öffnen](https://github.com/ydh-embedded/AKS.cs) |
+| 📚 **Dokumentation** | Technische Dokumentation | [→ Öffnen](https://github.com/ydh-embedded/AKS.md) |
+| 📊 **Excel Import** | Datenimport-Tools | [→ Öffnen](https://github.com/ydh-embedded//Excel%20import/) |
+| 📖 **README** | Projektübersicht | [→ Öffnen](https://github.com/ydh-embedded//README.md) |
 
 </details>
 
