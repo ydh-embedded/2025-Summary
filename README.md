@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="70%">
 
 **🎯 Hauptkategorien**
 - [💻 .NET & C# Entwicklung](#-net--c-entwicklung)
