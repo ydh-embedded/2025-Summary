@@ -293,9 +293,9 @@ v1 → v2 → v3 (Aktuelle Version mit Sicherheits-Features)
 ### 📋 Haupt-Anwendung
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 🏠 **Haupt-App** | Blower-Door-Messung | [→ Öffnen](./V-Strom-Messung-ISO9972-html/index.html) |
-| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](./V-Strom-Messung-ISO9972-html/Readme.md) |
-| 🎨 **Styling** | CSS-Stylesheets | [→ Öffnen](./V-Strom-Messung-ISO9972-html/styles/style.css) |
+| 🏠 **Haupt-App** | Blower-Door-Messung | [→ Öffnen](https://github.com/ydh-embedded/V-Strom-Messung-ISO9972-html.git/index.html) |
+| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](https://github.com/ydh-embedded/V-Strom-Messung-ISO9972-html.git/Readme.md) |
+| 🎨 **Styling** | CSS-Stylesheets | [→ Öffnen](https://github.com/ydh-embedded/V-Strom-Messung-ISO9972-html.git/style.css) |
 
 ### ⚙️ JavaScript-Module
 | Modul | Funktionalität | Link |
