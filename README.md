@@ -40,7 +40,7 @@
 ## 💻 .NET & C# Entwicklung
 
 <details>
-<summary><b>☁️ AKS - Azure Kubernetes Service</b> <code>C# • Azure • Kubernetes</code></summary>
+<summary><b>☁️ AKS - Azure Kubernetes Service</b> <code>C#</code></summary>
 
 > **Professionelle Azure Kubernetes Service Konfiguration mit C# Implementierung**
 
