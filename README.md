@@ -47,10 +47,10 @@
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 📄 **AKS.cs** | C# Implementierung | [→ Öffnen](../AKS/AKS.cs) |
-| 📚 **Dokumentation** | Technische Dokumentation | [→ Öffnen](../AKS/AKS.md) |
-| 📊 **Excel Import** | Datenimport-Tools | [→ Öffnen](../AKS/Excel%20import/) |
-| 📖 **README** | Projektübersicht | [→ Öffnen](../AKS/README.md) |
+| 📄 **AKS.cs** | C# Implementierung | [→ Öffnen](./AKS/AKS.cs) |
+| 📚 **Dokumentation** | Technische Dokumentation | [→ Öffnen](./AKS/AKS.md) |
+| 📊 **Excel Import** | Datenimport-Tools | [→ Öffnen](./AKS/Excel%20import/) |
+| 📖 **README** | Projektübersicht | [→ Öffnen](./AKS/README.md) |
 
 </details>
 
@@ -61,9 +61,9 @@
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 💻 **Program.cs** | Hauptprogramm | [→ Öffnen](../App-C-Sharp/MyApp/Program.cs) |
-| 📄 **Projekt** | Standard-Projektdatei | [→ Öffnen](../App-C-Sharp/MyApp/MyApp.csproj) |
-| 🌐 **Multi-Platform** | Cross-Platform-Konfiguration | [→ Öffnen](../App-C-Sharp/MyApp/MyApp_MultiPlatform.csproj) |
+| 💻 **Program.cs** | Hauptprogramm | [→ Öffnen](./App-C-Sharp/MyApp/Program.cs) |
+| 📄 **Projekt** | Standard-Projektdatei | [→ Öffnen](./App-C-Sharp/MyApp/MyApp.csproj) |
+| 🌐 **Multi-Platform** | Cross-Platform-Konfiguration | [→ Öffnen](./App-C-Sharp/MyApp/MyApp_MultiPlatform.csproj) |
 
 </details>
 
@@ -74,10 +74,10 @@
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 📄 **Projekt** | Haupt-Projektdatei | [→ Öffnen](../App-C-Sharp/MyBlazorApp/MyBlazorApp.csproj) |
-| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](../App-C-Sharp/MyBlazorApp/Readme.md) |
-| 🏗️ **Struktur** | Architektur-Dokumentation | [→ Öffnen](../App-C-Sharp/MyBlazorApp/Readme-structure.md) |
-| 📚 **PDF Guide** | Manjaro Linux Setup | [→ Öffnen](../App-C-Sharp/PDF/_NET%20MAUI%20Entwicklung%20auf%20Manjaro%20Linux%20-%20Setup%20Guide.pdf) |
+| 📄 **Projekt** | Haupt-Projektdatei | [→ Öffnen](./App-C-Sharp/MyBlazorApp/MyBlazorApp.csproj) |
+| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](./App-C-Sharp/MyBlazorApp/Readme.md) |
+| 🏗️ **Struktur** | Architektur-Dokumentation | [→ Öffnen](./App-C-Sharp/MyBlazorApp/Readme-structure.md) |
+| 📚 **PDF Guide** | Manjaro Linux Setup | [→ Öffnen](./App-C-Sharp/PDF/_NET%20MAUI%20Entwicklung%20auf%20Manjaro%20Linux%20-%20Setup%20Guide.pdf) |
 
 **🎯 Unterstützte Plattformen:**
 ```
@@ -93,9 +93,9 @@
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 📄 **Projekt** | Web-Projektdatei | [→ Öffnen](../App-C-Sharp/MyBlazorWeb/MyBlazorWeb.csproj) |
-| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](../App-C-Sharp/MyBlazorWeb/Readme.md) |
-| 🏗️ **Struktur** | Architektur-Dokumentation | [→ Öffnen](../App-C-Sharp/MyBlazorWeb/Readme-structure.md) |
+| 📄 **Projekt** | Web-Projektdatei | [→ Öffnen](./App-C-Sharp/MyBlazorWeb/MyBlazorWeb.csproj) |
+| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](./App-C-Sharp/MyBlazorWeb/Readme.md) |
+| 🏗️ **Struktur** | Architektur-Dokumentation | [→ Öffnen](./App-C-Sharp/MyBlazorWeb/Readme-structure.md) |
 
 </details>
 
@@ -110,10 +110,10 @@
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 🏠 **Haupt-App** | PDF-Viewer Anwendung | [→ Öffnen](../PDF-Viewer/index.html) |
-| ✏️ **Editor** | PDF-Editor Interface | [→ Öffnen](../PDF-Viewer/edit.html) |
-| 🔄 **Alternative** | Alternative Version | [→ Öffnen](../PDF-Viewer/index_I.html) |
-| 🎨 **Styling** | CSS-Stylesheets | [→ Öffnen](../PDF-Viewer/style/styles-v4.css) |
+| 🏠 **Haupt-App** | PDF-Viewer Anwendung | [→ Öffnen](./PDF-Viewer/index.html) |
+| ✏️ **Editor** | PDF-Editor Interface | [→ Öffnen](./PDF-Viewer/edit.html) |
+| 🔄 **Alternative** | Alternative Version | [→ Öffnen](./PDF-Viewer/index_I.html) |
+| 🎨 **Styling** | CSS-Stylesheets | [→ Öffnen](./PDF-Viewer/style/styles-v4.css) |
 
 </details>
 
@@ -124,11 +124,11 @@
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 🧮 **Rechner** | Aktuelle Anwendung | [→ Öffnen](../steuer-calc/steuer_kv_rechner.html) |
-| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](../steuer-calc/README.md) |
-| 🎨 **Custom CSS** | Eigene Styles | [→ Öffnen](../steuer-calc/styles/style.css) |
-| 🎨 **Tailwind** | Tailwind CSS | [→ Öffnen](../steuer-calc/styles/tailwind.css) |
-| 📁 **Versionshistorie** | Archiv-Versionen | [→ Öffnen](../steuer-calc/archiv/) |
+| 🧮 **Rechner** | Aktuelle Anwendung | [→ Öffnen](./steuer-calc/steuer_kv_rechner.html) |
+| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](./steuer-calc/README.md) |
+| 🎨 **Custom CSS** | Eigene Styles | [→ Öffnen](./steuer-calc/styles/style.css) |
+| 🎨 **Tailwind** | Tailwind CSS | [→ Öffnen](./steuer-calc/styles/tailwind.css) |
+| 📁 **Versionshistorie** | Archiv-Versionen | [→ Öffnen](./steuer-calc/archiv/) |
 
 **📊 Verfügbare Versionen:**
 ```
@@ -144,9 +144,9 @@ v2 → v3 → v4 → v5 → Aktuelle Version
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 🏠 **Website** | Haupt-Website | [→ Öffnen](../webvisu.github.io/index.html) |
-| 🎨 **Bootstrap** | CSS-Framework | [→ Öffnen](../webvisu.github.io/css/) |
-| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](../webvisu.github.io/README.md) |
+| 🏠 **Website** | Haupt-Website | [→ Öffnen](./webvisu.github.io/index.html) |
+| 🎨 **Bootstrap** | CSS-Framework | [→ Öffnen](./webvisu.github.io/css/) |
+| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](./webvisu.github.io/README.md) |
 
 </details>
 
@@ -161,10 +161,10 @@ v2 → v3 → v4 → v5 → Aktuelle Version
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 📚 **Dokumentation** | Technische Dokumentation | [→ Öffnen](../BackUp-mit-Rsynch/doc.md) |
-| 🌐 **Web-Interface** | Browser-basierte Oberfläche | [→ Öffnen](../BackUp-mit-Rsynch/index.html) |
-| 💿 **Externe HDD** | Festplatten-Konfiguration | [→ Öffnen](../BackUp-mit-Rsynch/externe%20Festplatte/) |
-| ⚙️ **System-Config** | Laufendes System | [→ Öffnen](../BackUp-mit-Rsynch/laufendes%20System/) |
+| 📚 **Dokumentation** | Technische Dokumentation | [→ Öffnen](./BackUp-mit-Rsynch/doc.md) |
+| 🌐 **Web-Interface** | Browser-basierte Oberfläche | [→ Öffnen](./BackUp-mit-Rsynch/index.html) |
+| 💿 **Externe HDD** | Festplatten-Konfiguration | [→ Öffnen](./BackUp-mit-Rsynch/externe%20Festplatte/) |
+| ⚙️ **System-Config** | Laufendes System | [→ Öffnen](./BackUp-mit-Rsynch/laufendes%20System/) |
 
 **🔧 Konfigurationsdateien:**
 - `fstab.config` - Systemkonfiguration
@@ -180,9 +180,9 @@ v2 → v3 → v4 → v5 → Aktuelle Version
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](../Live-Server-python/Readme.md) |
-| 📚 **PDF-Guide** | Detaillierte Anleitung | [→ Öffnen](../Live-Server-python/PDF/Python%20Live%20Server%20Anleitung.pdf) |
-| 🔄 **Version 1** | Erste Implementation | [→ Öffnen](../Live-Server-python/v1/) |
+| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](./Live-Server-python/Readme.md) |
+| 📚 **PDF-Guide** | Detaillierte Anleitung | [→ Öffnen](./Live-Server-python/PDF/Python%20Live%20Server%20Anleitung.pdf) |
+| 🔄 **Version 1** | Erste Implementation | [→ Öffnen](./Live-Server-python/v1/) |
 
 </details>
 
@@ -193,9 +193,9 @@ v2 → v3 → v4 → v5 → Aktuelle Version
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](../distrobox/README.md) |
-| 🎨 **Styling** | CSS-Datei | [→ Öffnen](../distrobox/style.css) |
-| 🖼️ **Screenshots** | Projekt-Bilder | [→ Öffnen](../distrobox/screen/ships.webp) |
+| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](./distrobox/README.md) |
+| 🎨 **Styling** | CSS-Datei | [→ Öffnen](./distrobox/style.css) |
+| 🖼️ **Screenshots** | Projekt-Bilder | [→ Öffnen](./distrobox/screen/ships.webp) |
 
 </details>
 
@@ -206,7 +206,7 @@ v2 → v3 → v4 → v5 → Aktuelle Version
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 🔧 **Generator** | Prompt-Generator Tool | [→ Öffnen](../Prombt-Generator/coding_prompt_generator.html) |
+| 🔧 **Generator** | Prompt-Generator Tool | [→ Öffnen](./Prombt-Generator/coding_prompt_generator.html) |
 
 </details>
 
@@ -221,8 +221,8 @@ v2 → v3 → v4 → v5 → Aktuelle Version
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](../codesys/README.md) |
-| 📜 **Lizenz** | Lizenzinformationen | [→ Öffnen](../codesys/LICENSE) |
+| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](./codesys/README.md) |
+| 📜 **Lizenz** | Lizenzinformationen | [→ Öffnen](./codesys/LICENSE) |
 
 </details>
 
@@ -233,9 +233,9 @@ v2 → v3 → v4 → v5 → Aktuelle Version
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 📄 **LLMS Config** | KI-Konfiguration | [→ Öffnen](../LLMS-SEO-WebSite/llms.txt) |
-| 🤖 **Automatisierung** | Automatisierungs-Projekte | [→ Öffnen](../LLMS-SEO-WebSite/llms_txt_automation_projects.md) |
-| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](../LLMS-SEO-WebSite/README.md) |
+| 📄 **LLMS Config** | KI-Konfiguration | [→ Öffnen](./LLMS-SEO-WebSite/llms.txt) |
+| 🤖 **Automatisierung** | Automatisierungs-Projekte | [→ Öffnen](./LLMS-SEO-WebSite/llms_txt_automation_projects.md) |
+| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](./LLMS-SEO-WebSite/README.md) |
 
 </details>
 
@@ -250,9 +250,9 @@ v2 → v3 → v4 → v5 → Aktuelle Version
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](../OrcaSlicer/README.md) |
-| 🖼️ **Screenshots** | Projekt-Bilder | [→ Öffnen](../OrcaSlicer/screen/) |
-| 🔧 **3D-Modelle** | SolidWorks-Dateien | [→ Öffnen](../OrcaSlicer/solidworks%20-3ds/solidworks/) |
+| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](./OrcaSlicer/README.md) |
+| 🖼️ **Screenshots** | Projekt-Bilder | [→ Öffnen](./OrcaSlicer/screen/) |
+| 🔧 **3D-Modelle** | SolidWorks-Dateien | [→ Öffnen](./OrcaSlicer/solidworks%20-3ds/solidworks/) |
 
 **🎯 Projekt-Beispiele:**
 - 🚪 Kühlraumtür-Scharnier
@@ -267,10 +267,10 @@ v2 → v3 → v4 → v5 → Aktuelle Version
 
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| ⚙️ **Aktuelle Config** | v3-print.cfg | [→ Öffnen](../y3d-Printer-config-Optimierung/v3-print.cfg) |
-| 🛡️ **Sicherheit** | Sicherheits-Dokumentation | [→ Öffnen](../y3d-Printer-config-Optimierung/v3-doc-safety.md) |
-| 📚 **Dokumentation** | Technische Dokumentation | [→ Öffnen](../y3d-Printer-config-Optimierung/v3-print.md) |
-| 💾 **Backup** | Backup-Konfiguration | [→ Öffnen](../y3d-Printer-config-Optimierung/BackUp-Print.cfg) |
+| ⚙️ **Aktuelle Config** | v3-print.cfg | [→ Öffnen](./y3d-Printer-config-Optimierung/v3-print.cfg) |
+| 🛡️ **Sicherheit** | Sicherheits-Dokumentation | [→ Öffnen](./y3d-Printer-config-Optimierung/v3-doc-safety.md) |
+| 📚 **Dokumentation** | Technische Dokumentation | [→ Öffnen](./y3d-Printer-config-Optimierung/v3-print.md) |
+| 💾 **Backup** | Backup-Konfiguration | [→ Öffnen](./y3d-Printer-config-Optimierung/BackUp-Print.cfg) |
 
 **📈 Versions-Historie:**
 ```
@@ -293,34 +293,34 @@ v1 → v2 → v3 (Aktuelle Version mit Sicherheits-Features)
 ### 📋 Haupt-Anwendung
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 🏠 **Haupt-App** | Blower-Door-Messung | [→ Öffnen](../V-Strom-Messung-ISO9972-html/index.html) |
-| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](../V-Strom-Messung-ISO9972-html/Readme.md) |
-| 🎨 **Styling** | CSS-Stylesheets | [→ Öffnen](../V-Strom-Messung-ISO9972-html/styles/style.css) |
+| 🏠 **Haupt-App** | Blower-Door-Messung | [→ Öffnen](./V-Strom-Messung-ISO9972-html/index.html) |
+| 📖 **README** | Projekt-Dokumentation | [→ Öffnen](./V-Strom-Messung-ISO9972-html/Readme.md) |
+| 🎨 **Styling** | CSS-Stylesheets | [→ Öffnen](./V-Strom-Messung-ISO9972-html/styles/style.css) |
 
 ### ⚙️ JavaScript-Module
 | Modul | Funktionalität | Link |
 |-------|---------------|------|
-| 📱 **app.js** | Hauptlogik der Anwendung | [→ Öffnen](../V-Strom-Messung-ISO9972-html/js/app.js) |
-| 📊 **chart.js** | Diagramm-Funktionalität | [→ Öffnen](../V-Strom-Messung-ISO9972-html/js/chart.js) |
-| 📏 **measurement.js** | Messdaten-Verarbeitung | [→ Öffnen](../V-Strom-Messung-ISO9972-html/js/measurement.js) |
-| 📋 **protocol.js** | Protokoll-Generierung | [→ Öffnen](../V-Strom-Messung-ISO9972-html/js/protocol.js) |
-| 🌤️ **weather.js** | Wetter-Integration | [→ Öffnen](../V-Strom-Messung-ISO9972-html/js/weather.js) |
-| 📤 **export.js** | Daten-Export | [→ Öffnen](../V-Strom-Messung-ISO9972-html/js/export.js) |
-| ⌨️ **keyboard-navigation.js** | Tastatur-Navigation | [→ Öffnen](../V-Strom-Messung-ISO9972-html/js/keyboard-navigation.js) |
+| 📱 **app.js** | Hauptlogik der Anwendung | [→ Öffnen](./V-Strom-Messung-ISO9972-html/js/app.js) |
+| 📊 **chart.js** | Diagramm-Funktionalität | [→ Öffnen](./V-Strom-Messung-ISO9972-html/js/chart.js) |
+| 📏 **measurement.js** | Messdaten-Verarbeitung | [→ Öffnen](./V-Strom-Messung-ISO9972-html/js/measurement.js) |
+| 📋 **protocol.js** | Protokoll-Generierung | [→ Öffnen](./V-Strom-Messung-ISO9972-html/js/protocol.js) |
+| 🌤️ **weather.js** | Wetter-Integration | [→ Öffnen](./V-Strom-Messung-ISO9972-html/js/weather.js) |
+| 📤 **export.js** | Daten-Export | [→ Öffnen](./V-Strom-Messung-ISO9972-html/js/export.js) |
+| ⌨️ **keyboard-navigation.js** | Tastatur-Navigation | [→ Öffnen](./V-Strom-Messung-ISO9972-html/js/keyboard-navigation.js) |
 
 ### 📋 Protokoll-System
 | Ressource | Beschreibung | Link |
 |-----------|-------------|------|
-| 📋 **Protokoll-Seite** | Protokoll-Interface | [→ Öffnen](../V-Strom-Messung-ISO9972-html/sites/protocol.html) |
-| 🖨️ **Print CSS** | Druck-Stylesheet | [→ Öffnen](../V-Strom-Messung-ISO9972-html/sites/protocol_style/print.css) |
-| 🎨 **Scope Style** | Bereichs-Styling | [→ Öffnen](../V-Strom-Messung-ISO9972-html/sites/protocol_style/scope_style.css) |
-| 🖼️ **Header-Bilder** | Grafische Elemente | [→ Öffnen](../V-Strom-Messung-ISO9972-html/sites/pictures/Header_background.png) |
+| 📋 **Protokoll-Seite** | Protokoll-Interface | [→ Öffnen](./V-Strom-Messung-ISO9972-html/sites/protocol.html) |
+| 🖨️ **Print CSS** | Druck-Stylesheet | [→ Öffnen](./V-Strom-Messung-ISO9972-html/sites/protocol_style/print.css) |
+| 🎨 **Scope Style** | Bereichs-Styling | [→ Öffnen](./V-Strom-Messung-ISO9972-html/sites/protocol_style/scope_style.css) |
+| 🖼️ **Header-Bilder** | Grafische Elemente | [→ Öffnen](./V-Strom-Messung-ISO9972-html/sites/pictures/Header_background.png) |
 
 ### 🔧 Entwicklung & Archiv
 | Bereich | Beschreibung | Link |
 |---------|-------------|------|
-| 📁 **Archiv** | Entwicklungsversionen | [→ Öffnen](../V-Strom-Messung-ISO9972-html/archiv/) |
-| 🔍 **Diagnose** | Debug-Tools | [→ Öffnen](../V-Strom-Messung-ISO9972-html/js/diagnose.html) |
+| 📁 **Archiv** | Entwicklungsversionen | [→ Öffnen](./V-Strom-Messung-ISO9972-html/archiv/) |
+| 🔍 **Diagnose** | Debug-Tools | [→ Öffnen](./V-Strom-Messung-ISO9972-html/js/diagnose.html) |
 
 **🎯 Hauptfunktionen:**
 - ✅ ISO 9972 konforme Messungen
