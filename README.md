@@ -7,7 +7,7 @@
 ![Projekte](https://img.shields.io/badge/Projekte-15+-orange)
 ![Sprachen](https://img.shields.io/badge/Sprachen-C%23%20|%20JavaScript%20|%20HTML%20|%20CSS%20|%20Python-red)
 
-**Willkommen in meinem umfassenden Entwicklungs-Portfolio mit innovativen Projekten**
+**Meine Ideen im Rückblick**
 
 </div>
 
